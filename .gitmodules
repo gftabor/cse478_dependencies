@@ -1,0 +1,22 @@
+[submodule "vesc"]
+	path = vesc
+	url = git@github.com:prl-mushr/vesc.git
+	branch = nick/python3-support
+[submodule "mushr_sim"]
+	path = mushr_sim
+	url = git@github.com:prl-mushr/mushr_sim.git
+	branch = nick/python3-support
+[submodule "serial"]
+	path = serial
+	url = git@github.com:wjwwood/serial.git
+[submodule "mushr_base"]
+	path = mushr_base
+	url = git@github.com:prl-mushr/mushr_base.git
+	branch = nick/python3-support
+[submodule "ydlidar"]
+	path = ydlidar
+	url = git@github.com:prl-mushr/ydlidar.git
+[submodule "mushr"]
+	path = mushr
+	url = git@github.com:prl-mushr/mushr.git
+	branch = nick/noetic
