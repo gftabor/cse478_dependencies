@@ -13,10 +13,9 @@
 	path = mushr_base
 	url = https://github.com/prl-mushr/mushr_base
 	branch = nick/python3-support
-[submodule "ydlidar"]
-	path = ydlidar
-	url = https://github.com/prl-mushr/ydlidar
 [submodule "mushr"]
 	path = mushr
 	url = https://github.com/prl-mushr/mushr
 	branch = nick/noetic
+[submodule "ackermann_cmd_mux"]
+	url = https://github.com/prl-mushr/ackermann_cmd_mux.git
