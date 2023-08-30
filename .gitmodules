@@ -18,4 +18,5 @@
 	url = https://github.com/prl-mushr/mushr
 	branch = nick/noetic
 [submodule "ackermann_cmd_mux"]
+	path = ackermann_cmd_mux
 	url = https://github.com/prl-mushr/ackermann_cmd_mux.git
